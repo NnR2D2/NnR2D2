@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 170" width="140" height="170" role="img" aria-label="Stylized droid mascot">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D7E1EC"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6FC3FF"/>
+      <stop offset="1" stop-color="#1E5FBF"/>
+    </linearGradient>
+    <clipPath id="domeClip">
+      <path d="M30 58 A40 40 0 0 1 110 58 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- ground shadow -->
+  <ellipse cx="70" cy="158" rx="46" ry="7" fill="#58A6FF" opacity="0.15"/>
+
+  <!-- antenna (blinking beacon) -->
+  <line x1="70" y1="10" x2="70" y2="26" stroke="#9FB3C8" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="70" cy="8" r="4" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- head dome -->
+  <path d="M30 58 A40 40 0 0 1 110 58 Z" fill="url(#bodyGrad)" stroke="#B9C6D6" stroke-width="1.5"/>
+  <rect x="30" y="46" width="80" height="12" fill="url(#blueGrad)" clip-path="url(#domeClip)"/>
+
+  <!-- eye (pulsing glow) -->
+  <circle cx="70" cy="38" r="9.5" fill="#0A1428" stroke="#1E5FBF" stroke-width="1.5"/>
+  <circle cx="70" cy="38" r="5" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0.45;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="72.5" cy="35.5" r="1.6" fill="#FFFFFF" opacity="0.9"/>
+
+  <!-- neck -->
+  <rect x="60" y="58" width="20" height="8" fill="#9FB3C8"/>
+
+  <!-- legs -->
+  <rect x="20" y="98" width="15" height="40" rx="7" fill="#C9D1D9" stroke="#9FB3C8" stroke-width="1"/>
+  <rect x="105" y="98" width="15" height="40" rx="7" fill="#C9D1D9" stroke="#9FB3C8" stroke-width="1"/>
+  <rect x="13" y="136" width="29" height="13" rx="6" fill="#9FB3C8"/>
+  <rect x="98" y="136" width="29" height="13" rx="6" fill="#9FB3C8"/>
+
+  <!-- body -->
+  <rect x="34" y="65" width="72" height="72" rx="14" fill="url(#bodyGrad)" stroke="#B9C6D6" stroke-width="1.5"/>
+  <rect x="48" y="76" width="44" height="28" rx="7" fill="url(#blueGrad)"/>
+  <circle cx="60" cy="90" r="2.6" fill="#FFFFFF"/>
+  <circle cx="70" cy="90" r="2.6" fill="#FFFFFF"/>
+  <circle cx="80" cy="90" r="2.6" fill="#FFFFFF"/>
+  <circle cx="99" cy="72" r="3" fill="#FF6D00"/>
+  <line x1="52" y1="116" x2="88" y2="116" stroke="#9FB3C8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="52" y1="122" x2="88" y2="122" stroke="#9FB3C8" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="52" y1="128" x2="88" y2="128" stroke="#9FB3C8" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 42" width="900" height="42" role="img" aria-label="Animated droid divider">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E90FF" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#1E90FF" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base line -->
+  <rect x="0" y="19.5" width="900" height="3" rx="1.5" fill="url(#lineGrad)"/>
+
+  <!-- scanning pulse (glow + core) -->
+  <circle r="9" fill="#58A6FF" opacity="0.22">
+    <animate attributeName="cx" values="15;885;15" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="21;21;21" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.2" fill="#9BD9FF">
+    <animate attributeName="cx" values="15;885;15" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="21;21;21" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- signal dots -->
+  <circle cx="12" cy="21" r="3" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="26" cy="21" r="2.4" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
