@@ -249,10 +249,6 @@ for farming operations.
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 </picture>
 
-_Generated automatically by GitHub Actions — see
-`.github/workflows/3d-contrib.yml`. Run the workflow once and this section comes
-alive._
-
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
 ## 🐍 Contribution Snake
@@ -261,9 +257,6 @@ alive._
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NnR2D2/NnR2D2/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/NnR2D2/NnR2D2/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
 </picture>
-
-_The snake eats your contributions — powered by `.github/workflows/snake.yml`.
-Run the workflow once to generate it._
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
