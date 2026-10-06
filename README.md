@@ -8,9 +8,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6FC3FF,1:0B3D91&section=header&text=Nitta%20Nando%20Roy&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Machine%20Learning%20%E2%80%A2%20Bangla%20NLP%20%E2%80%A2%20Generative%20AI&descSize=17&descAlignY=53&animation=fadeIn" width="100%" alt="Nitta Nando Roy" />
 
-<p align="center">
+<p align="center" >
   <a href="https://github.com/NnR2D2">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&lines=Computer+Science+Graduate+%C2%B7+Daffodil+International+University;Research+Assistant+%40+DIU+NLP+%26+ML+Research+Lab;Machine+Learning+%C2%B7+Bangla+NLP+%C2%B7+Generative+AI;5%C3%97+IEEE+Conference+Publications" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=860&height=60&lines=Computer+Science+Graduate+%C2%B7+Daffodil+International+University;Research+Assistant+%40+DIU+NLP+%26+ML+Research+Lab;Machine+Learning+%C2%B7+Bangla+NLP+%C2%B7+Generative+AI;5%C3%97+IEEE+Conference+Publications" alt="Typing intro" />
   </a>
 </p>
 
@@ -20,11 +20,16 @@
 
 <img align="right" width="150" src="assets/r2-mascot.svg" alt="Droid mascot" />
 
-- 🎓 **B.Sc. in Computer Science & Engineering**, Daffodil International University — **CGPA 3.68 / 4.0**
-- 🔬 **Research Assistant @ DIU NLP & ML Research Lab** — Bangla NLP and code-mixed text classification
-- 📚 **5× IEEE conference publications** in machine learning and language technologies
-- 👨‍🏫 Trained and mentored **250+ students** as Bootcamp Trainer (50+) and Lab Prefect (200+)
-- 🛠️ Building practical AI systems with **Python**, **Scikit-learn**, **Hugging Face**, **OpenAI API**, **Django / FastAPI**
+- 🎓 **B.Sc. in Computer Science & Engineering**, Daffodil International
+  University — **CGPA 3.68 / 4.0**
+- 🔬 **Research Assistant @ DIU NLP & ML Research Lab** — Bangla NLP and
+  code-mixed text classification
+- 📚 **5× IEEE conference publications** in machine learning and language
+  technologies
+- 👨‍🏫 Trained and mentored **250+ students** as Bootcamp Trainer (50+) and Lab
+  Prefect (200+)
+- 🛠️ Building practical AI systems with **Python**, **Scikit-learn**, **Hugging
+  Face**, **OpenAI API**, **Django / FastAPI**
 - 📍 Dhaka, Bangladesh
 
 <br clear="right" />
@@ -33,39 +38,57 @@
 
 ## 📚 Publications
 
-**5 IEEE conference papers** — full list on [Google Scholar](https://scholar.google.com/citations?user=jSSDWU8AAAAJ&hl=en&authuser=1).
+**5 IEEE conference papers** — full list on
+[Google Scholar](https://scholar.google.com/citations?user=jSSDWU8AAAAJ&hl=en&authuser=1).
 
-[1] **"Bridging Classical and Colloquial Bangla: Using Large Language Models for Sadhu–Cholit Register Classification."** — *AISEI (IEEE), Irbid, Jordan, Apr. 2026* — [DOI](https://doi.org/10.1109/AISEI68628.2026.11572911)
+[1] **"Bridging Classical and Colloquial Bangla: Using Large Language Models for
+Sadhu–Cholit Register Classification."** — _AISEI (IEEE), Irbid, Jordan, Apr.
+2026_ — [DOI](https://doi.org/10.1109/AISEI68628.2026.11572911)
 
-[2] **"Automatic Classification of Banglish and English Text Using TF-IDF and Machine Learning Models."** — *AISEI (IEEE), Irbid, Jordan, Apr. 2026* — [DOI](https://doi.org/10.1109/AISEI68628.2026.11572934)
+[2] **"Automatic Classification of Banglish and English Text Using TF-IDF and
+Machine Learning Models."** — _AISEI (IEEE), Irbid, Jordan, Apr. 2026_ —
+[DOI](https://doi.org/10.1109/AISEI68628.2026.11572934)
 
-[3] **"A Comparative Study of LSTM and Bi-LSTM Architectures with Attention for Bangla News Classification."** — *IDAA, Dhaka, Bangladesh, Dec. 2025* — [DOI](https://doi.org/10.2991/978-94-6239-664-7_31)
+[3] **"A Comparative Study of LSTM and Bi-LSTM Architectures with Attention for
+Bangla News Classification."** — _IDAA, Dhaka, Bangladesh, Dec. 2025_ —
+[DOI](https://doi.org/10.2991/978-94-6239-664-7_31)
 
-[4] **"Efficient Bangla Tense Classification Using GRU, LSTM, and Bidirectional Approaches."** — *ECCE (IEEE), Chittagong, Bangladesh, Feb. 2025* — [DOI](https://doi.org/10.1109/ECCE64574.2025.11012984)
+[4] **"Efficient Bangla Tense Classification Using GRU, LSTM, and Bidirectional
+Approaches."** — _ECCE (IEEE), Chittagong, Bangladesh, Feb. 2025_ —
+[DOI](https://doi.org/10.1109/ECCE64574.2025.11012984)
 
-[5] **"Enhancing Bangla Fake News Detection By Using A Deep Learning Approach."** — *ICCIT (IEEE), Cox's Bazar, Bangladesh, Dec. 2024* — [DOI](https://doi.org/10.1109/ICCIT64611.2024.11021965)
+[5] **"Enhancing Bangla Fake News Detection By Using A Deep Learning
+Approach."** — _ICCIT (IEEE), Cox's Bazar, Bangladesh, Dec. 2024_ —
+[DOI](https://doi.org/10.1109/ICCIT64611.2024.11021965)
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
 ## 💼 Experience & Leadership
 
-**Research Assistant** — DIU NLP & ML Research Lab *(Sep 2025 – Aug 2026)*
-Conducting research on **Bangla NLP and code-mixed text classification**; preparing and analyzing datasets for ML/DL experiments; contributing to model development, evaluation and performance improvement.
+**Research Assistant** — DIU NLP & ML Research Lab _(Sep 2025 – Aug 2026)_
+Conducting research on **Bangla NLP and code-mixed text classification**;
+preparing and analyzing datasets for ML/DL experiments; contributing to model
+development, evaluation and performance improvement.
 
-**Bootcamp Trainer — Basic Python to Machine Learning** — DIU NLP & ML Research Lab *(Oct 2025 – Apr 2026)*
-Trained **50+ students** in Python, data preprocessing and machine learning through practical sessions with **Pandas, NumPy and Scikit-learn**.
+**Bootcamp Trainer — Basic Python to Machine Learning** — DIU NLP & ML Research
+Lab _(Oct 2025 – Apr 2026)_ Trained **50+ students** in Python, data
+preprocessing and machine learning through practical sessions with **Pandas,
+NumPy and Scikit-learn**.
 
-**Lab Prefect — Data Structures & Programming** — Daffodil International University *(Jul 2023 – Apr 2025)*
-Guided **200+ students** in programming and problem-solving; evaluated assignments and provided debugging support.
+**Lab Prefect — Data Structures & Programming** — Daffodil International
+University _(Jul 2023 – Apr 2025)_ Guided **200+ students** in programming and
+problem-solving; evaluated assignments and provided debugging support.
 
-**Community** — Volunteer, National Data Analytics Competition (NDAC 2025) · Contest Organizer, Crack Dataset (CD-2024) · Participant, Unlock the Algorithm 2023 & DIU Take Off 2022
+**Community** — Volunteer, National Data Analytics Competition (NDAC 2025) ·
+Contest Organizer, Crack Dataset (CD-2024) · Participant, Unlock the Algorithm
+2023 & DIU Take Off 2022
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science & Engineering** — Daffodil International University, Dhaka *(May 2022 – May 2026)*
-**CGPA: 3.68 / 4.0**
+**B.Sc. in Computer Science & Engineering** — Daffodil International University,
+Dhaka _(May 2022 – May 2026)_ **CGPA: 3.68 / 4.0**
 
 **Research interests**
 
@@ -76,12 +99,14 @@ Guided **200+ students** in programming and problem-solving; evaluated assignmen
 ![LLMs](https://img.shields.io/badge/LLMs-1E5FBF?style=flat-square)
 ![Model Explainability](https://img.shields.io/badge/Model_Explainability-58A6FF?style=flat-square)
 
-**Relevant coursework** — Machine Learning · Artificial Intelligence · Data Mining · Database Systems · Data Structures · Algorithms · Object-Oriented Programming · Natural Language Processing
+**Relevant coursework** — Machine Learning · Artificial Intelligence · Data
+Mining · Database Systems · Data Structures · Algorithms · Object-Oriented
+Programming · Natural Language Processing
 
 ## 🏆 Honors & Awards
 
-**3rd** — DIU Capture The Flag Contest 2024 · Cyber Security Club
-**2nd** — DIU CodeTrap Programming Contest 2023 · Software Engineering Club
+**3rd** — DIU Capture The Flag Contest 2024 · Cyber Security Club **2nd** — DIU
+CodeTrap Programming Contest 2023 · Software Engineering Club
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
@@ -111,7 +136,10 @@ Guided **200+ students** in programming and problem-solving; evaluated assignmen
 
 ### 🇧🇩 [Banglish vs. English Detector](https://github.com/NnR2D2/Banglish-vs-English-Detector)
 
-NLP classification model that distinguishes Banglish from English text — built with **Scikit-learn** and reaching **99.31% accuracy**, with a **Streamlit** dashboard for live prediction and model performance analysis. The approach behind it is published at IEEE AISEI 2026 (paper [2] above).
+NLP classification model that distinguishes Banglish from English text — built
+with **Scikit-learn** and reaching **99.31% accuracy**, with a **Streamlit**
+dashboard for live prediction and model performance analysis. The approach
+behind it is published at IEEE AISEI 2026 (paper [2] above).
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F89939?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-1E90FF?style=flat-square)
@@ -122,7 +150,9 @@ NLP classification model that distinguishes Banglish from English text — built
 
 ### 🧭 [AI Search Visualizer](https://github.com/NnR2D2/ai-search-visualizer)
 
-Interactive tool that visualizes **A\***, **BFS**, **DFS** and **UCS** pathfinding algorithms step by step — making heuristic search behavior visible and intuitive for learning and teaching.
+Interactive tool that visualizes **A\***, **BFS**, **DFS** and **UCS**
+pathfinding algorithms step by step — making heuristic search behavior visible
+and intuitive for learning and teaching.
 
 ![Algorithms](https://img.shields.io/badge/Search_Algorithms-1E90FF?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -132,7 +162,9 @@ Interactive tool that visualizes **A\***, **BFS**, **DFS** and **UCS** pathfindi
 
 ### 🛒 [Euzaar](https://euzaar.com)
 
-Full-stack **e-commerce platform** built with **Django**, **PostgreSQL** and **REST APIs** — covering authentication, product management, order workflows and payment integration. Deployed and live at [euzaar.com](https://euzaar.com).
+Full-stack **e-commerce platform** built with **Django**, **PostgreSQL** and
+**REST APIs** — covering authentication, product management, order workflows and
+payment integration. Deployed and live at [euzaar.com](https://euzaar.com).
 
 ![Django](https://img.shields.io/badge/Django-092C1C?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -143,7 +175,8 @@ Full-stack **e-commerce platform** built with **Django**, **PostgreSQL** and **R
 
 ### 🧹 [E-commerce Product Scraper](https://github.com/NnR2D2/ecommerce_scraper)
 
-Web-scraping pipeline that collects product **title, price, availability and rating**, then exports clean, structured data to **CSV** for analysis and reuse.
+Web-scraping pipeline that collects product **title, price, availability and
+rating**, then exports clean, structured data to **CSV** for analysis and reuse.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-7C3AED?style=flat-square)
@@ -153,7 +186,9 @@ Web-scraping pipeline that collects product **title, price, availability and rat
 
 ### 🔐 [Attack on Finances (AoF)](https://github.com/NnR2D2/Attack-on-Finances-AoF-Network-Security-Simulation)
 
-Network-security simulation that models attack scenarios against a simulated financial environment — exploring threat behavior, attack surfaces and defensive response. Skills proven in practice: **3rd place, DIU CTF 2024**.
+Network-security simulation that models attack scenarios against a simulated
+financial environment — exploring threat behavior, attack surfaces and defensive
+response. Skills proven in practice: **3rd place, DIU CTF 2024**.
 
 ![Network Security](https://img.shields.io/badge/Network_Security-B91C1C?style=flat-square)
 ![Simulation](https://img.shields.io/badge/Simulation-1E90FF?style=flat-square)
@@ -162,12 +197,18 @@ Network-security simulation that models attack scenarios against a simulated fin
 
 ### 🌾 [Smart Farming with IoT & AI Monitoring](https://github.com/NnR2D2/Smart-Farming-with-IoT-and-AI-Monitoring)
 
-IoT-driven smart-agriculture platform that streams field-sensor data into AI models for continuous crop-condition monitoring — data-driven decision-making for farming operations.
+IoT-driven smart-agriculture platform that streams field-sensor data into AI
+models for continuous crop-condition monitoring — data-driven decision-making
+for farming operations.
 
 ![IoT](https://img.shields.io/badge/IoT-0E7490?style=flat-square)
 ![AI / ML](https://img.shields.io/badge/AI%2FML-1E90FF?style=flat-square)
 
-**More on GitHub:** [Restaurant Manager](https://github.com/NnR2D2/Restaurant-Maneger) · [Rain Alert System](https://github.com/NnR2D2/Rain-alert-system) · [TourNTravel](https://github.com/NnR2D2/TourNTravel) · [Python Project](https://github.com/NnR2D2/Python-Project)
+**More on GitHub:**
+[Restaurant Manager](https://github.com/NnR2D2/Restaurant-Maneger) ·
+[Rain Alert System](https://github.com/NnR2D2/Rain-alert-system) ·
+[TourNTravel](https://github.com/NnR2D2/TourNTravel) ·
+[Python Project](https://github.com/NnR2D2/Python-Project)
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
@@ -208,7 +249,9 @@ IoT-driven smart-agriculture platform that streams field-sensor data into AI mod
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 </picture>
 
-*Generated automatically by GitHub Actions — see `.github/workflows/3d-contrib.yml`. Run the workflow once and this section comes alive.*
+_Generated automatically by GitHub Actions — see
+`.github/workflows/3d-contrib.yml`. Run the workflow once and this section comes
+alive._
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
@@ -219,7 +262,8 @@ IoT-driven smart-agriculture platform that streams field-sensor data into AI mod
   <img src="https://raw.githubusercontent.com/NnR2D2/NnR2D2/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
 </picture>
 
-*The snake eats your contributions — powered by `.github/workflows/snake.yml`. Run the workflow once to generate it.*
+_The snake eats your contributions — powered by `.github/workflows/snake.yml`.
+Run the workflow once to generate it._
 
 <img src="assets/r2-divider.svg" width="100%" alt="divider" />
 
